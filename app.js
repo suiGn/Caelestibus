@@ -4,9 +4,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const routes = require("./routes");
-
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+const PORT = process.env.PORT || 3000;
 
 var app = express();
 
@@ -41,5 +39,8 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   res.render('error');
 });
+
+// launch ======================================================================
+
 
 module.exports = app;
