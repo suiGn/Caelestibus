@@ -24,49 +24,79 @@ Los intervalos entre las frecuencias de los sonidos armoniosos forman razones nu
 
 ---- CUERPOS CELESTES -----
 
-Mercurio:
-θ = 0° 
-58d 15.5 h
-Soprano.
-57,910,000 kilometros
+Mercurio #199
+Inclinación de sobre su eje θ = 0° 
+Mean Radius (km) =  2440
+Sidereal rot. period  =    58.6463 d
+Mass x10^23 (kg)      =     3.302x10^23
+Mean Orbit vel.  (km/s) = 47.362
+Solar distance (km)= 57,910x10^3
 
-Venus
-θ = 177.4°
-243d 26m
-108,200,000
+Venus #299
+Inclinación de sobre su eje θ = 177.4°
+Mean Radius (km) =  6051.84
+Sidereal rot. period  =   243.018484 d
+Mass x10^23 (kg)      =    48.685x10^23
+Orbit speed, (km/s)     =   35.021
+Solar distance (km) =  108,200x10^3
 
+Tierra #399
+Inclinación de sobre su eje θ = 23.4°
+Mean Radius (km)    = 6371.01
+Sidereal rot. period  =   365,256363004 d
+Mass x10^24 (kg)= 5.97219x10^24
+Orbital speed, (km/s)  = 29.79
+Solar distance (km) = 149,600x10^3
 
-Tierra
-θ = 23.4°
-23h 56m
-146,600,000
+Marte #499
+Inclinación de sobre su eje θ = 25.2°
+mean radius (km) = 3389.92
+Sidereal rot. period  =   686.98 d 
+Mass x10^23 (kg)      =    6.4171
+Orbital speed,  km/s  =  24.13
+Solar distance (km) = 227,940x10^3
 
-Marte
-θ = 25.2°
-1d 36m
-227,940,000
+Jupiter #599
+Inclinación de sobre su eje θ = 3.1°
+Mean Radius (km) = 69911
+Sidereal orbit period = 11.861982204 y =  4332.589 d
+Mass x10^24 (kg)      = 1898.13x10^24
+orbit speed, km/s = 13.0697 
+Solar distance (km) = 778,330x10^3
 
-Jupiter
-θ = 3.1°
-9h 55m
-Tonos bajos
-77,8330,000
+Saturno #699
+Inclinación de sobre su eje θ = 26.7°
+Mean Radius (km) = 58232
+Sidereal orbit period = 29.447498 yr = 10755.698 d 
+Mass x10^26 (kg)      = 5.6834x10^26
+Mean orbit velocity, km/s    =  9.68
+Solar distance (km)  = 1,429,400x10^3
 
-Saturno
-θ = 26.7°
-10h 33m
-Tonos bajos
-1,429,400,000
+Urano #799
+Inclinación de sobre su eje θ = 97.8.°
+Mean Radius (km) = 25362
+Sidereal orbit period = 25362 y =  30685.4 d
+Mass x10^24 (kg)      = 86.813x10^24
+Mean orbit velocity    =  6.8 km/s
+Solar distance (km) = 2,870,990x10^3
 
-Uranos
-θ = 97.8.°
-17h 14m
-2,870,990,000
+Neptuno #899
+Inclinación de sobre su eje θ = 28.3°
+mean radius (km) = 24624
+Sidereal orbit period = 164.788501027 y = 60189 d 
+Mass x10^24 (kg)      = 102.413x10^24
+Mean orbit velocity    =  5.43 km/s 
+Solar distance (km) = 4,504,300x10^3
 
-Neptuno
-θ = 28.3°
-16h
-4,504,300,000
+-----------Planetas enanos-----------------
+Pluton #999
+Inclinación de sobre su eje θ = 122.5
+mean radius (km) = 1188.3
+ Sidereal orbit period = 249.58932 yr
+Mass x10^22 (kg)      = 1.307x10^22
+Mean orbit velocity   = 4.67 km/s 
+Solar distance (km) = 5,913,520x10^3
+
 
 
 -------- Lunas --------
