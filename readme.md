@@ -23,66 +23,77 @@ Los intervalos entre las frecuencias de los sonidos armoniosos forman razones nu
 
 
 ---- CUERPOS CELESTES -----
+Sol #10
+Inclinación de sobre su eje θ (y) = 0°
+Solar radius (IAU), (x,y,z)    = 696000 km
 
 Mercurio #199
-Inclinación de sobre su eje θ = 0° 
-Mean Radius (km) =  2440
+Inclinación de sobre su eje θ (y) = 0° 
+Radius (y)  =  2441 km
+Equatorial radius, (x,z) = 2440 km
 Sidereal rot. period  =    58.6463 d
 Mass x10^23 (kg)      =     3.302x10^23
 Mean Orbit vel.  (km/s) = 47.362
 Solar distance (km)= 57,910x10^3
 
 Venus #299
-Inclinación de sobre su eje θ = 177.4°
-Mean Radius (km) =  6051.84
+Inclinación de sobre su eje θ (y)= 177.4°
+Radius (y) =  6051.84
+Equatorial Radius, (x,z) = 6051.893 km 
 Sidereal rot. period  =   243.018484 d
 Mass x10^23 (kg)      =    48.685x10^23
 Orbit speed, (km/s)     =   35.021
 Solar distance (km) =  108,200x10^3
 
 Tierra #399
-Inclinación de sobre su eje θ = 23.4°
-Mean Radius (km)    = 6371.01
+Inclinación de sobre su eje θ (y)= 23.4°
+Radius (y)    = 6371.01 km
+Equatorial Radius, (x,z) = 6378.137 km
 Sidereal rot. period  =   365,256363004 d
 Mass x10^24 (kg)= 5.97219x10^24
 Orbital speed, (km/s)  = 29.79
 Solar distance (km) = 149,600x10^3
 
 Marte #499
-Inclinación de sobre su eje θ = 25.2°
-mean radius (km) = 3389.92
+Inclinación de sobre su eje θ (y)= 25.2°
+Radius (y) = 3389.92 km
+Equatorial radius (x,z)=  3396.19 km
 Sidereal rot. period  =   686.98 d 
 Mass x10^23 (kg)      =    6.4171
 Orbital speed,  km/s  =  24.13
 Solar distance (km) = 227,940x10^3
 
 Jupiter #599
-Inclinación de sobre su eje θ = 3.1°
-Mean Radius (km) = 69911
+Inclinación de sobre su eje θ (y)= 3.1°
+Radius (y) = 69911 km
+Equat. radius (x,z) = 71492 km
 Sidereal orbit period = 11.861982204 y =  4332.589 d
 Mass x10^24 (kg)      = 1898.13x10^24
 orbit speed, km/s = 13.0697 
 Solar distance (km) = 778,330x10^3
 
 Saturno #699
-Inclinación de sobre su eje θ = 26.7°
-Mean Radius (km) = 58232
+Inclinación de sobre su eje θ (y)= 26.7°
+Radius (y) = 58232 km
+Equat. radius (x,z) = 60268
 Sidereal orbit period = 29.447498 yr = 10755.698 d 
 Mass x10^26 (kg)      = 5.6834x10^26
 Mean orbit velocity, km/s    =  9.68
 Solar distance (km)  = 1,429,400x10^3
 
 Urano #799
-Inclinación de sobre su eje θ = 97.8.°
-Mean Radius (km) = 25362
+Inclinación de sobre su eje θ (y)= 97.8.°
+Radius (y) = 25362 km
+Equat. radius (x,z) = 25559 km
 Sidereal orbit period = 25362 y =  30685.4 d
 Mass x10^24 (kg)      = 86.813x10^24
 Mean orbit velocity    =  6.8 km/s
 Solar distance (km) = 2,870,990x10^3
 
 Neptuno #899
-Inclinación de sobre su eje θ = 28.3°
-mean radius (km) = 24624
+Inclinación de sobre su eje θ (Y) = 28.3°
+Radius (y) = 24624 km
+Equat. radius (x,z) =  24766 km
 Sidereal orbit period = 164.788501027 y = 60189 d 
 Mass x10^24 (kg)      = 102.413x10^24
 Mean orbit velocity    =  5.43 km/s 
@@ -90,9 +101,9 @@ Solar distance (km) = 4,504,300x10^3
 
 -----------Planetas enanos-----------------
 Pluton #999
-Inclinación de sobre su eje θ = 122.5
-mean radius (km) = 1188.3
- Sidereal orbit period = 249.58932 yr
+Inclinación de sobre su eje θ (y)= 122.5
+mean radius (x,y,z) = 1188.3 km
+Sidereal orbit period = 249.58932 yr
 Mass x10^22 (kg)      = 1.307x10^22
 Mean orbit velocity   = 4.67 km/s 
 Solar distance (km) = 5,913,520x10^3
@@ -162,6 +173,7 @@ Inducción magnetica - Proceso mediante el cual campos magnéticos generan campo
 
 ------- Notas -----
 La radiación es un ruido.
+UA (unidades astronómicas: una UA es la distancia media de la Tierra al Sol, son unos 150 millones de km.)
 
 
 
