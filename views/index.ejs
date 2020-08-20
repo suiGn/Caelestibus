@@ -4,57 +4,97 @@
   </head>
   <body>
    <a-scene background="color: #222222">
+   
+   <a-assets>
+         <audio id="river" src="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3" preload="auto"></audio>
+           <img 
+             id="space"
+             src="img/textures/espacio.jpg">
+           <img 
+             id="sun" 
+             src="img/textures/sol.jpg">
+           <img 
+             id="mercury"
+             src="img/textures/mercurio.jpg">
+           <img 
+             id="venus"
+             src="img/textures/venus.jpg">
+           <img
+             id="earth"
+             src="img/textures/tierra.jpg">
+           <img 
+             id="mars"
+             src="img/textures/marte.jpg">
+           <img 
+             id="jupiter"
+             src="img/textures/jupiter.jpg">
+           <img 
+             id="saturn"
+             src="img/textures/saturno.jpg">
+           <img 
+             id="uranus"
+             src="img/textures/urano.jpg"> 
+           <img 
+             id="neptune"
+             src="img/textures/neptuno.jpg"> 
+         </a-assets>
+		 
+		 <!-- Space -->
+		 <a-sky
+		         src="#space"></a-sky>
+		 
         <!-- Sun -->
         <a-sphere 
-          color="#F5C85D"
+          src="#sun"
           position="-13 2 -10" 
           radius="4"></a-sphere>
 
         <!-- Mercury -->
         <a-sphere
+		src="#mercury"
           color="#AF886D"
           position="-7 2 -10"
           radius=".25"></a-sphere>
 
         <!-- Venus -->
         <a-sphere 
-          color="#ECBFBF"
+          src="#venus"
           position="-5 2 -10" 
           radius=".5"></a-sphere>
 
         <!-- Earth -->
         <a-sphere 
-          color="#6DCBE7"
+          src="#earth"
           position="-3 2 -10" 
           radius=".5"></a-sphere>
 
         <!-- Mars -->
         <a-sphere 
-          color="#CF503A"
+          src="#mars"
           position="-1 2 -10" 
           radius=".25"></a-sphere>
 
         <!-- Jupiter -->
         <a-sphere 
-          color="#C9957A"
+          src="#jupiter"
           position="1 2 -10"
           radius="1"></a-sphere>
       
         <!-- Saturn -->
         <a-sphere 
-          color="#F8EC99"
+          src="#saturn"
           position="4 2 -10" 
           radius=".8"></a-sphere>
 
         <!-- Uranus -->
         <a-sphere 
-          color="#73AAF8"
+          src="#uranus"
           position="7 2 -10"
           radius=".75"></a-sphere>
 
         <!-- Neptune -->
         <a-sphere 
-          color="#3453BD"
+          src="#neptune"
           position="10 2 -10" 
           radius=".75"></a-sphere>
      
