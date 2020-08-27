@@ -39,7 +39,7 @@ Radius (y)  =  2441 km
 Equatorial radius, (x,z) = 2440 km
 Sidereal rot. period  =    58.6463 d
 Mass x10^23 (kg)      =     3.302x10^23
-Mean Orbit vel.  (km/s) = 47.362
+Orbit vel.  (km/s) = 47.362
 Solar distance (km)= 57,910x10^3
 /escala/
 radius (y)    = 0.0035058 
@@ -113,7 +113,7 @@ radius (x,z)  = 0.08659
 distance =  2053.73
 
 Urano #799
-Inclinación de sobre su eje θ (y)= 97.8.°
+Inclinación de sobre su eje θ (y)= 97.8°
 Radius (y) = 25362 km
 Equat. radius (x,z) = 25559 km
 Sidereal orbit period = 25362 y =  30685.4 d
@@ -217,6 +217,7 @@ Inducción magnetica - Proceso mediante el cual campos magnéticos generan campo
 ------- Notas -----
 La radiación es un ruido.
 UA (unidades astronómicas: una UA es la distancia media de la Tierra al Sol, son unos 150 millones de km.)
+La rotación de la Tierra disminuye 1,8 milisegundos por siglo, según reportes de hace 2,700 años
 
 
 
