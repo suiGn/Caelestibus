@@ -1,39 +1,53 @@
------ DATOS GENERALES ------
+## DATOS GENERALES
 
-Kepler: Conocido por desvelar la forma elíptica de las órbitas planetarias.
+**Kepler:** Conocido por desvelar la forma elíptica de las órbitas planetarias.
 
-Pitágoras propone que el Sol, la Luna y los planetas emiten un único zumbido basado en su revolución orbital, y que la cualidad de la vida en la Tierra refleja el tenor de los sonidos celestiales que son imperceptibles para el oído humano.
+**Pitágoras** propone que el Sol, la Luna y los planetas emiten un único zumbido **basado en su revolución orbital**, y que la cualidad de la vida en la Tierra refleja **el tenor de los sonidos celestiales que son imperceptibles para el oído humano.**
 
-Kepler "Harmonices Mundi" asigno notas musicales a cada planeta en funcion de su velocidad angular.
+Kepler **"Harmonices Mundi"** asigno **notas musicales a cada planeta en funcion de su velocidad angular.**
 
-Para Filolao, matemático y astrónomo, año 400 a.C., el mundo es armonía y número, todo se halla ordenado según proporciones que corresponden a tres consonancias básicas para la música: 2:1 (armonía), 3:2 (quinta), 4:3 (cuarta).
+**Para Filolao, matemático y astrónomo, año 400 a.C., el mundo es armonía y número, todo se halla ordenado según proporciones que corresponden a tres consonancias básicas para la música: 2:1 (armonía), 3:2 (quinta), 4:3 (cuarta).**
 
----- Music ----
+## Music
 
 El grado musical o grado de la escala es la posición de cada nota dentro de una escala musical en el sistema tonal.
 
-Consonancia (eufonía): cualidad de aquellos sonidos que, oídos simultáneamente, producen efecto agradable.
+**Consonancia (eufonía):** cualidad de aquellos sonidos que, oídos simultáneamente, producen efecto agradable.
 Hoy en día se aceptan como consonancias los intervalos de unísono, tercera menor, tercera mayor, cuarta justa, quinta justa, sexta menor, sexta mayor y octava.. También se consideran consonantes los intervalos compuestos que derivan de estos. Algunas clasificaciones dividen las consonancias en perfectas (octavas, quintas y cuartas justas) e imperfectas (terceras y sextas).
 
 En el sistema tonal, las notas están organizadas alrededor de una tónica.
 
-Intervalo: 
-Intervalo es la diferencia de altura —frecuencia— entre dos notas musicales.
+## Cuatro cualidades esenciales del sonido
+
+Las ondas sonoras se originan siempre por el movimiento vibratorio de algún cuerpo en contacto con un medio en el cual el sonido es posible.
+
+**Altura** -  Dicha cualidad determina si un sonido es agudo o grave, la cual dependerá de la frecuencia en que se repita la onda sonora.
+
+**Duración** - La duración corresponde al tiempo que se mantienen las vibraciones producidas por un sonido. Este parámetro está relacionado con el ritmo. Dicho parámetro viene representado en la onda por los segundos que este contenga.
+
+Intensidad - La intensidad en música es la cualidad que diferencia un sonido suave de un sonido fuerte. Depende de la fuerza con la que el cuerpo sonoro sea ejecutado y de la distancia del receptor de la fuente sonora.
+
+**Timbre** - El timbre es la cualidad que caracteriza un sonido.
+
+### Intervalo: 
+
+Intervalo es la diferencia de altura —**frecuencia**— entre dos notas musicales.
 Los intervalos entre las frecuencias de los sonidos armoniosos forman razones numéricas.
 
+# CUERPOS CELESTES
 
----- CUERPOS CELESTES -----
 Escala 1 = 696000 km
 
-Sol #10
+### Sol #10
+
 Inclinación de sobre su eje θ (y) = 0°
 Solar radius (IAU), (x,y,z)    = 696000 km
 /escala/
 radius (x,y,z)    = 1
 distance = 0 
 
+### Mercurio #199
 
-Mercurio #199
 Inclinación de sobre su eje θ (y) = 0° 
 Radius (y)  =  2441 km
 Equatorial radius, (x,z) = 2440 km
@@ -46,7 +60,8 @@ radius (y)    = 0.0035058
 radius (x,z)  = 0.0035057 
 distance = 83.20 
 
-Venus #299
+### Venus #299
+
 Inclinación de sobre su eje θ (y)= 177.4°
 Radius (y) =  6051.84
 Equatorial Radius, (x,z) = 6051.893 km 
@@ -59,7 +74,8 @@ radius (y)    = 0.0087
 radius (x,z)  = 0.008695
 distance =  155.45 
 
-Tierra #399
+### Tierra #399
+
 Inclinación de sobre su eje θ (y)= 23.4°
 Radius (y)    = 6371.01 km
 Equatorial Radius, (x,z) = 6378.137 km
@@ -73,7 +89,8 @@ radius (y)    = 0.009153
 radius (x,z)  = 0.009164
 distance =   214.94
 
-Marte #499
+### Marte #499
+
 Inclinación de sobre su eje θ (y)= 25.2°
 Radius (y) = 3389.92 km
 Equatorial radius (x,z)=  3396.19 km
@@ -86,7 +103,8 @@ radius (y)    = 0.0048705
 radius (x,z)  = 0.004879
 distance =   327.5
 
-Jupiter #599
+### Jupiter #599
+
 Inclinación de sobre su eje θ (y)= 3.1°
 Radius (y) = 69911 km
 Equat. radius (x,z) = 71492 km
@@ -99,7 +117,8 @@ radius (y)    = 0.10044
 radius (x,z)  = 0.1027
 distance =   1118.29
 
-Saturno #699
+### Saturno #699
+
 Inclinación de sobre su eje θ (y)= 26.7°
 Radius (y) = 58232 km
 Equat. radius (x,z) = 60268
@@ -112,7 +131,8 @@ radius (y)    = 0.083667
 radius (x,z)  = 0.08659
 distance =  2053.73
 
-Urano #799
+### Urano #799
+
 Inclinación de sobre su eje θ (y)= 97.8°
 Radius (y) = 25362 km
 Equat. radius (x,z) = 25559 km
@@ -125,7 +145,8 @@ radius (y)    = 0.036722
 radius (x,z)  = 0.036437
 distance =   4124.98
 
-Neptuno #899
+### Neptuno #899
+
 Inclinación de sobre su eje θ (Y) = 28.3°
 Radius (y) = 24624 km
 Equat. radius (x,z) =  24766 km
@@ -138,8 +159,10 @@ radius (y)    = 0.035379
 radius (x,z)  = 0.035454
 distance = 6471.69
 
------------Planetas enanos-----------------
-Pluton #999
+## Planetas enanos
+
+### Pluton #999
+
 Inclinación de sobre su eje θ (y)= 122.5
 mean radius (x,y,z) = 1188.3 km
 Sidereal orbit period = 249.58932 yr
@@ -151,46 +174,17 @@ radius (y)    = 0.001707
 radius (x,z)  = 0.001707
 distance = 8496.43 
 
+# Lunas 
 
+### Planetas Enanos
 
--------- Lunas --------
-
-
-
--------Planetas Enanos-------
-
-Eris - Orbita más halla de Neptuno - Pertenece al cinturón de Kuiper.
+**Eris** - Orbita más halla de Neptuno - Pertenece al cinturón de Kuiper.
 Pluton
 Makemake - Uno de los objetos más grandes del cinturón de Kuiper.
-Haumea - Cinturón de Kuiper
-Ceres - Se encuentra entre Marte y Jupiter
+**Haumea** - Cinturón de Kuiper
+**Ceres** - Se encuentra entre Marte y Jupiter
 
-
------- Días de la semana ----
-
-Lunes - Luna
-Martes - Marte
-Miercoles - Mercurio
-Jueves - Jupiter
-Viernes - Venus
-Sabado - Saturno
-Domingo - Sol - Sunday
-
-
----- Cuatro cualidades esenciales del sonido -----
-
-Las ondas sonoras se originan siempre por el movimiento vibratorio de algún cuerpo en contacto con un medio en el cual el sonido es posible.
-
-
-Altura -  Dicha cualidad determina si un sonido es agudo o grave, la cual dependerá de la frecuencia en que se repita la onda sonora.
-
-Duración - La duración corresponde al tiempo que se mantienen las vibraciones producidas por un sonido. Este parámetro está relacionado con el ritmo. Dicho parámetro viene representado en la onda por los segundos que este contenga.
-
-Intensidad - La intensidad en música es la cualidad que diferencia un sonido suave de un sonido fuerte. Depende de la fuerza con la que el cuerpo sonoro sea ejecutado y de la distancia del receptor de la fuente sonora.
-
-Timbre - El timbre es la cualidad que caracteriza un sonido.
-
---------- Orbitas -----
+###  Orbitas
 
 Conforme el cuerpo se acerca más al sol, gira más rápido.
 Conforme se aleja, la velocidad de orbita se alenta.
@@ -206,19 +200,26 @@ Presión sonora que crea la onda
 
 29.8 km/seg
 
+**------ Días de la semana ----**
 
-------- TESLA -----
+Lunes - Luna
+Martes - Marte
+Miercoles - Mercurio
+Jueves - Jupiter
+Viernes - Venus
+Sabado - Saturno
+Domingo - Sol - Sunday
 
-Tesla es la unidad de inducción mágnetica en el sistema internacional de unidades.
-Inducción magnetica - Proceso mediante el cual campos magnéticos generan campos eléctricos.
+# TESLA
 
+Tesla es la unidad de **inducción mágnetica** en el sistema internacional de unidades.
+**Inducción magnetica** - Proceso mediante el cual **campos magnéticos** generan campos eléctricos.
 
+#### ------- Notas -----
 
-------- Notas -----
-La radiación es un ruido.
+**La radiación es un ruido.**
 UA (unidades astronómicas: una UA es la distancia media de la Tierra al Sol, son unos 150 millones de km.)
 La rotación de la Tierra disminuye 1,8 milisegundos por siglo, según reportes de hace 2,700 años
-
 
 
 

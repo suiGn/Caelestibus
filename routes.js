@@ -9,8 +9,3 @@ ______ _____ _   _ _____ _____ _____
 CODED BY: SUI GENERIS 
 Musas
 */
-const index = require("./app");
-
-exports.home = function (req, res) {
-  res.render("index");
-};
