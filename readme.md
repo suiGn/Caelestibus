@@ -1,41 +1,27 @@
 ## DATOS GENERALES
-
 **Kepler:** Conocido por desvelar la forma elíptica de las órbitas planetarias.
-
 **Pitágoras** propone que el Sol, la Luna y los planetas emiten un único zumbido **basado en su revolución orbital**, y que la cualidad de la vida en la Tierra refleja **el tenor de los sonidos celestiales que son imperceptibles para el oído humano.**
-
 Kepler **"Harmonices Mundi"** asigno **notas musicales a cada planeta en funcion de su velocidad angular.**
-
 **Para Filolao, matemático y astrónomo, año 400 a.C., el mundo es armonía y número, todo se halla ordenado según proporciones que corresponden a tres consonancias básicas para la música: 2:1 (armonía), 3:2 (quinta), 4:3 (cuarta).**
 
 ## Music
-
 El grado musical o grado de la escala es la posición de cada nota dentro de una escala musical en el sistema tonal.
-
 **Consonancia (eufonía):** cualidad de aquellos sonidos que, oídos simultáneamente, producen efecto agradable.
 Hoy en día se aceptan como consonancias los intervalos de unísono, tercera menor, tercera mayor, cuarta justa, quinta justa, sexta menor, sexta mayor y octava.. También se consideran consonantes los intervalos compuestos que derivan de estos. Algunas clasificaciones dividen las consonancias en perfectas (octavas, quintas y cuartas justas) e imperfectas (terceras y sextas).
-
 En el sistema tonal, las notas están organizadas alrededor de una tónica.
 
 ## Cuatro cualidades esenciales del sonido
-
 Las ondas sonoras se originan siempre por el movimiento vibratorio de algún cuerpo en contacto con un medio en el cual el sonido es posible.
-
 **Altura** -  Dicha cualidad determina si un sonido es agudo o grave, la cual dependerá de la frecuencia en que se repita la onda sonora.
-
 **Duración** - La duración corresponde al tiempo que se mantienen las vibraciones producidas por un sonido. Este parámetro está relacionado con el ritmo. Dicho parámetro viene representado en la onda por los segundos que este contenga.
-
 Intensidad - La intensidad en música es la cualidad que diferencia un sonido suave de un sonido fuerte. Depende de la fuerza con la que el cuerpo sonoro sea ejecutado y de la distancia del receptor de la fuente sonora.
-
 **Timbre** - El timbre es la cualidad que caracteriza un sonido.
 
 ### Intervalo: 
-
 Intervalo es la diferencia de altura —**frecuencia**— entre dos notas musicales.
 Los intervalos entre las frecuencias de los sonidos armoniosos forman razones numéricas.
 
 # CUERPOS CELESTES
-
 Escala 1 = 696000 km
 
 ### Sol #10
