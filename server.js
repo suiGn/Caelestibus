@@ -1,4 +1,5 @@
 //Caelestibus reigns supreme
+//Caelestibus means "heavenly" in Latin
 const express = require('express');
 const app = express();
 
