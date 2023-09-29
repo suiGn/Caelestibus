@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif; /* MUI Joy uses Roboto */
+    background-color: #f4f4f4; /* Light Grey */
+    color: #333; /* Dark Grey */
+    overflow: hidden;
+}
+
+.menu-item.selected {
+    color: #ffffff; /* White */
+    background-color: #3f51b5; /* Indigo */
+    border: 1px solid #3f51b5; /* Indigo */
+}
+
+#container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #ffffff; /* White */
+    padding: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Subtle Shadow */
+    border-radius: 8px; /* Rounded Corners */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    color: #333; /* Dark Grey */
