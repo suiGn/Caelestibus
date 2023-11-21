@@ -15,8 +15,6 @@
     "music",
     "kepler"
   ],
-  "author": "suiGn",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suiGn/Caelestibus/issues"
   },
@@ -24,5 +22,8 @@
   "dependencies": {
     "express": "^4.18.2",
     "three": "^0.155.0"
-  }
+  },
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "App"
 }

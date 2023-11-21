@@ -1,7 +1,6 @@
 ## DATOS GENERALES
 
 **Kepler:** Conocido por desvelar la forma elíptica de las órbitas planetarias.
-
 **Pitágoras** propone que el Sol, la Luna y los planetas emiten un único zumbido **basado en su revolución orbital**, y que la cualidad de la vida en la Tierra refleja **el tenor de los sonidos celestiales que son imperceptibles para el oído humano.**
 
 Kepler **"Harmonices Mundi"** asigno **notas musicales a cada planeta en funcion de su velocidad angular.**
@@ -18,7 +17,6 @@ Hoy en día se aceptan como consonancias los intervalos de unísono, tercera men
 En el sistema tonal, las notas están organizadas alrededor de una tónica.
 
 ## Cuatro cualidades esenciales del sonido
-
 Las ondas sonoras se originan siempre por el movimiento vibratorio de algún cuerpo en contacto con un medio en el cual el sonido es posible.
 
 **Altura** -  Dicha cualidad determina si un sonido es agudo o grave, la cual dependerá de la frecuencia en que se repita la onda sonora.
@@ -30,16 +28,13 @@ Intensidad - La intensidad en música es la cualidad que diferencia un sonido su
 **Timbre** - El timbre es la cualidad que caracteriza un sonido.
 
 ### Intervalo: 
-
 Intervalo es la diferencia de altura —**frecuencia**— entre dos notas musicales.
 Los intervalos entre las frecuencias de los sonidos armoniosos forman razones numéricas.
 
 # CUERPOS CELESTES
-
 Escala 1 = 696000 km
 
 ### Sol #10
-
 Inclinación de sobre su eje θ (y) = 0°
 Solar radius (IAU), (x,y,z)    = 696000 km
 /escala/
@@ -47,7 +42,6 @@ radius (x,y,z)    = 1
 distance = 0 
 
 ### Mercurio #199
-
 Inclinación de sobre su eje θ (y) = 0° 
 Radius (y)  =  2441 km
 Equatorial radius, (x,z) = 2440 km
@@ -61,7 +55,6 @@ radius (x,z)  = 0.0035057
 distance = 83.20 
 
 ### Venus #299
-
 Inclinación de sobre su eje θ (y)= 177.4°
 Radius (y) =  6051.84
 Equatorial Radius, (x,z) = 6051.893 km 
@@ -75,7 +68,6 @@ radius (x,z)  = 0.008695
 distance =  155.45 
 
 ### Tierra #399
-
 Inclinación de sobre su eje θ (y)= 23.4°
 Radius (y)    = 6371.01 km
 Equatorial Radius, (x,z) = 6378.137 km
@@ -90,7 +82,6 @@ radius (x,z)  = 0.009164
 distance =   214.94
 
 ### Marte #499
-
 Inclinación de sobre su eje θ (y)= 25.2°
 Radius (y) = 3389.92 km
 Equatorial radius (x,z)=  3396.19 km
@@ -104,7 +95,6 @@ radius (x,z)  = 0.004879
 distance =   327.5
 
 ### Jupiter #599
-
 Inclinación de sobre su eje θ (y)= 3.1°
 Radius (y) = 69911 km
 Equat. radius (x,z) = 71492 km
@@ -118,7 +108,6 @@ radius (x,z)  = 0.1027
 distance =   1118.29
 
 ### Saturno #699
-
 Inclinación de sobre su eje θ (y)= 26.7°
 Radius (y) = 58232 km
 Equat. radius (x,z) = 60268
@@ -132,7 +121,6 @@ radius (x,z)  = 0.08659
 distance =  2053.73
 
 ### Urano #799
-
 Inclinación de sobre su eje θ (y)= 97.8°
 Radius (y) = 25362 km
 Equat. radius (x,z) = 25559 km
@@ -146,7 +134,6 @@ radius (x,z)  = 0.036437
 distance =   4124.98
 
 ### Neptuno #899
-
 Inclinación de sobre su eje θ (Y) = 28.3°
 Radius (y) = 24624 km
 Equat. radius (x,z) =  24766 km
@@ -162,7 +149,6 @@ distance = 6471.69
 ## Planetas enanos
 
 ### Pluton #999
-
 Inclinación de sobre su eje θ (y)= 122.5
 mean radius (x,y,z) = 1188.3 km
 Sidereal orbit period = 249.58932 yr
@@ -185,7 +171,6 @@ Makemake - Uno de los objetos más grandes del cinturón de Kuiper.
 **Ceres** - Se encuentra entre Marte y Jupiter
 
 ###  Orbitas
-
 Conforme el cuerpo se acerca más al sol, gira más rápido.
 Conforme se aleja, la velocidad de orbita se alenta.
 

@@ -1,0 +1,6 @@
+{
+    "buildCommand": "npm run build",
+    "deployCommand": "npm run deploy",
+    "host": "heroku",
+    "appName": "Caelestibus"
+  }
