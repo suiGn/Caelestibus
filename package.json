@@ -6,10 +6,6 @@
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suiGn/Caelestibus.git"
-  },
   "keywords": [
     "harmony",
     "music",
@@ -18,11 +14,16 @@
   "bugs": {
     "url": "https://github.com/suiGn/Caelestibus/issues"
   },
-  "homepage": "https://github.com/suiGn/Caelestibus#readme",
   "dependencies": {
     "express": "^4.18.2",
     "three": "^0.155.0"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/Caelestibus.git"
   },
+  "homepage": "https://github.com/suiGn/Caelestibus#readme",
+  "docs": "https://suiGn.github.io/Caelestibus",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "App"
