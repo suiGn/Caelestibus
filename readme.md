@@ -7,7 +7,7 @@ Kepler **"Harmonices Mundi"** asigno **notas musicales a cada planeta en funcion
 
 **Para Filolao, matemático y astrónomo, año 400 a.C., el mundo es armonía y número, todo se halla ordenado según proporciones que corresponden a tres consonancias básicas para la música: 2:1 (armonía), 3:2 (quinta), 4:3 (cuarta).**
 
-## Music
+## Música
 
 El grado musical o grado de la escala es la posición de cada nota dentro de una escala musical en el sistema tonal.
 
